@@ -1,0 +1,5 @@
+package com.kafkaconsumer.controller;
+
+public class TestController {
+
+}

@@ -1,0 +1,22 @@
+package com.kafkaconsumer.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.kafka.annotation.KafkaListener;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestController {
+	
+	List<String> messages = new ArrayList<>();
+
+	
+	
+	@KafkaListener(groupId = "javatechie-1", topics = "javatechie", containerFactory = "kafkaListenerContainerFactory")
+	public List<String> getMsgFromTopic(String data) {
+		messages.add(data);
+		return messages;
+	}
+
+}

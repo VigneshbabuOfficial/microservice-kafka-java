@@ -1,0 +1,1034 @@
+2022-08-01 22:03:56,493 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-02 14:31:47,691 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-02 14:33:22,601 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-02 15:23:57,960 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-02 15:25:44,966 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kafka-publisher:kafka-publisher:0.0.1-SNAPSHOT @ D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\pom.xml.
+2022-08-02 15:25:47,804 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.pom
+2022-08-02 15:25:48,157 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.pom
+2022-08-02 15:25:48,677 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.pom
+2022-08-02 15:25:48,708 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.pom
+2022-08-02 15:25:49,342 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.pom
+2022-08-02 15:25:49,905 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.pom
+2022-08-02 15:25:49,927 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.pom
+2022-08-02 15:25:49,958 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.pom
+2022-08-02 15:25:49,980 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.pom
+2022-08-02 15:25:50,011 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.pom
+2022-08-02 15:25:52,461 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.pom
+2022-08-02 15:25:53,109 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.pom
+2022-08-02 15:25:53,162 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.pom
+2022-08-02 15:25:53,754 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.pom
+2022-08-02 15:25:53,778 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/parent/3.6.3/parent-3.6.3.pom
+2022-08-02 15:25:53,841 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/parent/3.6.3/parent-3.6.3.pom
+2022-08-02 15:25:53,866 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.pom
+2022-08-02 15:25:53,895 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.pom
+2022-08-02 15:25:54,477 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.pom
+2022-08-02 15:25:54,842 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.pom
+2022-08-02 15:25:54,863 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/yetus/yetus-project/0.5.0/yetus-project-0.5.0.pom
+2022-08-02 15:25:54,894 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/yetus/yetus-project/0.5.0/yetus-project-0.5.0.pom
+2022-08-02 15:25:55,006 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.pom
+2022-08-02 15:25:55,623 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.pom
+2022-08-02 15:25:56,795 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-parent/4.1.79.Final/netty-parent-4.1.79.Final.pom
+2022-08-02 15:25:56,869 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-parent/4.1.79.Final/netty-parent-4.1.79.Final.pom
+2022-08-02 15:25:56,896 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.pom
+2022-08-02 15:25:56,927 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.pom
+2022-08-02 15:25:56,950 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.pom
+2022-08-02 15:25:56,977 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.pom
+2022-08-02 15:25:57,001 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.pom
+2022-08-02 15:25:57,057 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.pom
+2022-08-02 15:25:57,395 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.pom
+2022-08-02 15:25:57,446 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.pom
+2022-08-02 15:25:57,546 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.pom
+2022-08-02 15:25:57,583 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.pom
+2022-08-02 15:25:57,629 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.pom
+2022-08-02 15:25:58,033 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.pom
+2022-08-02 15:25:58,096 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.pom
+2022-08-02 15:25:58,159 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.pom
+2022-08-02 15:25:58,778 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.pom
+2022-08-02 15:25:59,241 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.pom
+2022-08-02 15:25:59,270 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.pom
+2022-08-02 15:25:59,321 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.pom
+2022-08-02 15:25:59,343 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.pom
+2022-08-02 15:25:59,981 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.pom
+2022-08-02 15:26:00,010 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.pom
+2022-08-02 15:26:00,469 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.pom
+2022-08-02 15:26:01,089 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.pom
+2022-08-02 15:26:01,423 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.pom
+2022-08-02 15:26:01,779 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-parent/2.2.0/metrics-parent-2.2.0.pom
+2022-08-02 15:26:01,830 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-parent/2.2.0/metrics-parent-2.2.0.pom
+2022-08-02 15:26:02,399 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.pom
+2022-08-02 15:26:02,429 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.pom
+2022-08-02 15:26:02,754 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.pom
+2022-08-02 15:26:02,800 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.pom
+2022-08-02 15:26:03,165 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.pom
+2022-08-02 15:26:03,785 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.pom
+2022-08-02 15:26:04,706 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.pom
+2022-08-02 15:26:05,082 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.pom
+2022-08-02 15:26:05,110 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.pom
+2022-08-02 15:26:05,158 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.pom
+2022-08-02 15:26:05,578 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.pom
+2022-08-02 15:26:06,283 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.pom
+2022-08-02 15:26:06,310 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.pom
+2022-08-02 15:26:06,714 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.pom
+2022-08-02 15:26:07,057 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.pom
+2022-08-02 15:26:07,136 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.pom
+2022-08-02 15:26:07,525 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.pom
+2022-08-02 15:26:07,986 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.pom
+2022-08-02 15:26:08,008 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.pom
+2022-08-02 15:26:08,036 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.pom
+2022-08-02 15:26:08,057 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.8/paranamer-parent-2.8.pom
+2022-08-02 15:26:08,462 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer-parent/2.8/paranamer-parent-2.8.pom
+2022-08-02 15:26:08,884 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.pom
+2022-08-02 15:26:09,253 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.pom
+2022-08-02 15:26:09,288 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.3/jackson-dataformats-text-2.13.3.pom
+2022-08-02 15:26:09,619 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.13.3/jackson-dataformats-text-2.13.3.pom
+2022-08-02 15:26:10,064 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.pom
+2022-08-02 15:26:10,096 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.pom
+2022-08-02 15:26:10,445 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.pom
+2022-08-02 15:26:10,498 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.pom
+2022-08-02 15:26:10,522 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.pom
+2022-08-02 15:26:10,859 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.pom
+2022-08-02 15:26:10,884 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.pom
+2022-08-02 15:26:10,941 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.pom
+2022-08-02 15:26:11,327 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.pom
+2022-08-02 15:26:11,374 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.pom
+2022-08-02 15:26:11,397 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.pom
+2022-08-02 15:26:11,452 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.pom
+2022-08-02 15:26:11,493 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.pom
+2022-08-02 15:26:11,554 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.pom
+2022-08-02 15:26:11,580 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.pom
+2022-08-02 15:26:11,950 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.pom
+2022-08-02 15:26:11,971 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.4/scala-reflect-2.13.4.pom
+2022-08-02 15:26:12,303 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.4/scala-reflect-2.13.4.pom
+2022-08-02 15:26:12,330 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.pom
+2022-08-02 15:26:12,359 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.pom
+2022-08-02 15:26:12,751 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2022-08-02 15:26:12,806 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.pom
+2022-08-02 15:26:13,064 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+2022-08-02 15:26:13,069 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.jar
+2022-08-02 15:26:13,348 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8.jar
+2022-08-02 15:26:13,586 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar
+2022-08-02 15:26:13,988 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.jar
+2022-08-02 15:26:14,629 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8.jar
+2022-08-02 15:26:14,646 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.jar
+2022-08-02 15:26:14,703 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.jar
+2022-08-02 15:26:15,047 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3.jar
+2022-08-02 15:26:15,063 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar
+2022-08-02 15:26:15,087 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.jar
+2022-08-02 15:26:15,204 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar
+2022-08-02 15:26:15,466 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar
+2022-08-02 15:26:15,483 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.jar
+2022-08-02 15:26:15,625 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.jar
+2022-08-02 15:26:15,643 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final.jar
+2022-08-02 15:26:15,726 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3.jar
+2022-08-02 15:26:15,746 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.jar
+2022-08-02 15:26:15,949 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final.jar
+2022-08-02 15:26:15,967 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar
+2022-08-02 15:26:16,143 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final.jar
+2022-08-02 15:26:16,156 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4.jar
+2022-08-02 15:26:16,173 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.jar
+2022-08-02 15:26:16,210 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1.jar
+2022-08-02 15:26:16,382 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final.jar
+2022-08-02 15:26:16,595 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.jar
+2022-08-02 15:26:16,696 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final.jar
+2022-08-02 15:26:16,713 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.jar
+2022-08-02 15:26:16,860 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4.jar
+2022-08-02 15:26:16,891 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-test.jar
+2022-08-02 15:26:17,010 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.jar
+2022-08-02 15:26:17,093 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final.jar
+2022-08-02 15:26:17,111 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.jar
+2022-08-02 15:26:17,527 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final.jar
+2022-08-02 15:26:17,549 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1.jar
+2022-08-02 15:26:17,767 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-test.jar
+2022-08-02 15:26:17,783 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar
+2022-08-02 15:26:17,803 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.jar
+2022-08-02 15:26:17,859 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar
+2022-08-02 15:26:17,873 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.jar
+2022-08-02 15:26:17,876 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.jar
+2022-08-02 15:26:17,957 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1.jar
+2022-08-02 15:26:17,978 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.jar
+2022-08-02 15:26:18,109 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1.jar
+2022-08-02 15:26:18,280 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final.jar
+2022-08-02 15:26:18,428 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1.jar
+2022-08-02 15:26:18,711 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.jar
+2022-08-02 15:26:19,107 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar
+2022-08-02 15:26:19,204 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1.jar
+2022-08-02 15:26:20,275 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.jar
+2022-08-02 15:26:20,377 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.jar
+2022-08-02 15:26:20,665 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1.jar
+2022-08-02 15:26:20,682 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.jar
+2022-08-02 15:26:20,953 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar
+2022-08-02 15:26:21,150 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1.jar
+2022-08-02 15:26:21,168 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.jar
+2022-08-02 15:26:21,378 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1.jar
+2022-08-02 15:26:21,397 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+2022-08-02 15:26:21,501 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.jar
+2022-08-02 15:26:21,618 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3.jar
+2022-08-02 15:26:21,820 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.jar
+2022-08-02 15:26:21,856 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+2022-08-02 15:26:22,180 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0.jar
+2022-08-02 15:26:22,255 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final.jar
+2022-08-02 15:26:22,554 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2022-08-02 15:26:22,610 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.jar
+2022-08-02 15:26:22,685 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4.jar
+2022-08-02 15:26:22,693 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.jar
+2022-08-02 15:26:22,742 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3.jar
+2022-08-02 15:26:22,780 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.jar
+2022-08-02 15:26:22,865 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.jar
+2022-08-02 15:26:23,063 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.jar
+2022-08-02 15:26:23,142 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+2022-08-02 15:26:23,161 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.jar
+2022-08-02 15:26:23,468 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3.jar
+2022-08-02 15:26:23,489 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.jar
+2022-08-02 15:26:23,588 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar
+2022-08-02 15:26:23,657 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8.jar
+2022-08-02 15:26:24,029 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10.jar
+2022-08-02 15:26:24,178 [AetherRepositoryConnector-insecure.repo1.maven.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar
+2022-08-02 15:26:24,336 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-test.jar
+2022-08-02 15:26:24,510 [AetherRepositoryConnector-insecure.repo1.maven.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6.jar
+2022-08-02 15:26:24,755 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2022-08-02 15:26:24,801 [AetherRepositoryConnector-insecure.repo1.maven.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4.jar
+2022-08-02 15:26:25,174 [AetherRepositoryConnector-insecure.repo1.maven.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-test.jar
+2022-08-02 15:26:27,318 [AetherRepositoryConnector-insecure.repo1.maven.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1.jar
+2022-08-02 15:26:40,754 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8-sources.jar
+2022-08-02 15:26:41,021 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-publisher/src/main/java
+2022-08-02 15:26:41,022 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-publisher/src/main/resources
+2022-08-02 15:26:41,029 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-publisher/src/main/resources
+2022-08-02 15:26:41,037 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-publisher/src/test/java
+2022-08-02 15:26:41,354 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka/2.8.8/spring-kafka-2.8.8-sources.jar
+2022-08-02 15:26:41,358 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.kafka:spring-kafka:2.8.8
+2022-08-02 15:26:41,407 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-sources.jar
+2022-08-02 15:26:42,496 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-clients/3.1.1/kafka-clients-3.1.1-sources.jar
+2022-08-02 15:26:42,500 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:3.1.1
+2022-08-02 15:26:43,121 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4-sources.jar
+2022-08-02 15:26:44,408 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/github/luben/zstd-jni/1.5.0-4/zstd-jni-1.5.0-4-sources.jar
+2022-08-02 15:26:44,410 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.luben:zstd-jni:1.5.0-4
+2022-08-02 15:26:46,367 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0-sources.jar
+2022-08-02 15:26:47,121 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0-sources.jar
+2022-08-02 15:26:47,127 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.lz4:lz4-java:1.8.0
+2022-08-02 15:26:53,361 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:26:53,362 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:26:53,399 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:26:53,492 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:26:53,499 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:26:53,499 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:26:53,500 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:26:53,635 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4-sources.jar
+2022-08-02 15:26:55,123 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/xerial/snappy/snappy-java/1.1.8.4/snappy-java-1.1.8.4-sources.jar
+2022-08-02 15:26:55,126 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.xerial.snappy:snappy-java:1.1.8.4
+2022-08-02 15:26:56,030 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8-sources.jar
+2022-08-02 15:26:56,900 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/springframework/kafka/spring-kafka-test/2.8.8/spring-kafka-test-2.8.8-sources.jar
+2022-08-02 15:26:56,903 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.kafka:spring-kafka-test:2.8.8
+2022-08-02 15:26:58,866 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 94 sec
+2022-08-02 15:26:58,871 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-02 15:26:58,882 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3-sources.jar
+2022-08-02 15:26:59,742 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kafka-publisher:kafka-publisher:0.0.1-SNAPSHOT @ D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\pom.xml.
+2022-08-02 15:26:59,992 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.6.3/zookeeper-3.6.3-sources.jar
+2022-08-02 15:26:59,995 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.zookeeper:zookeeper:3.6.3
+2022-08-02 15:27:01,022 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-publisher/src/main/java
+2022-08-02 15:27:01,023 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-publisher/src/main/resources
+2022-08-02 15:27:01,023 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-publisher/src/main/resources
+2022-08-02 15:27:01,024 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-publisher/src/test/java
+2022-08-02 15:27:01,565 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3-sources.jar
+2022-08-02 15:27:02,265 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/zookeeper/zookeeper-jute/3.6.3/zookeeper-jute-3.6.3-sources.jar
+2022-08-02 15:27:02,268 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.zookeeper:zookeeper-jute:3.6.3
+2022-08-02 15:27:02,766 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0-sources.jar
+2022-08-02 15:27:03,429 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0-sources.jar
+2022-08-02 15:27:03,432 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.yetus:audience-annotations:0.5.0
+2022-08-02 15:27:03,481 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final-sources.jar
+2022-08-02 15:27:03,711 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-handler/4.1.79.Final/netty-handler-4.1.79.Final-sources.jar
+2022-08-02 15:27:03,714 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-handler:4.1.79.Final
+2022-08-02 15:27:03,784 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,117 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-common/4.1.79.Final/netty-common-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,120 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-common:4.1.79.Final
+2022-08-02 15:27:04,183 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,754 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-resolver/4.1.79.Final/netty-resolver-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,757 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-resolver:4.1.79.Final
+2022-08-02 15:27:04,807 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,911 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-buffer/4.1.79.Final/netty-buffer-4.1.79.Final-sources.jar
+2022-08-02 15:27:04,914 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-buffer:4.1.79.Final
+2022-08-02 15:27:06,348 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final-sources.jar
+2022-08-02 15:27:06,923 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport/4.1.79.Final/netty-transport-4.1.79.Final-sources.jar
+2022-08-02 15:27:06,926 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport:4.1.79.Final
+2022-08-02 15:27:08,929 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,018 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-unix-common/4.1.79.Final/netty-transport-native-unix-common-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,021 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-unix-common:4.1.79.Final
+2022-08-02 15:27:09,066 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,211 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-codec/4.1.79.Final/netty-codec-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,214 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-codec:4.1.79.Final
+2022-08-02 15:27:09,268 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,368 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-native-epoll/4.1.79.Final/netty-transport-native-epoll-4.1.79.Final-sources.jar
+2022-08-02 15:27:09,371 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-native-epoll:4.1.79.Final
+2022-08-02 15:27:11,701 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final-sources.jar
+2022-08-02 15:27:12,127 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/netty/netty-transport-classes-epoll/4.1.79.Final/netty-transport-classes-epoll-4.1.79.Final-sources.jar
+2022-08-02 15:27:12,131 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.netty:netty-transport-classes-epoll:4.1.79.Final
+2022-08-02 15:27:12,136 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-clients:3.1.1:test
+2022-08-02 15:27:13,242 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:13,243 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:13,298 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:27:13,309 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:27:13,312 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:13,312 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:13,313 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:27:14,353 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2022-08-02 15:27:15,665 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:15,666 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:15,666 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:27:15,669 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:27:15,672 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:15,672 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:15,672 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:27:16,291 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1-sources.jar
+2022-08-02 15:27:17,035 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-metadata/3.1.1/kafka-metadata-3.1.1-sources.jar
+2022-08-02 15:27:17,038 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-metadata:3.1.1
+2022-08-02 15:27:17,867 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1-sources.jar
+2022-08-02 15:27:18,271 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-server-common/3.1.1/kafka-server-common-3.1.1-sources.jar
+2022-08-02 15:27:18,275 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-server-common:3.1.1
+2022-08-02 15:27:18,934 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1-sources.jar
+2022-08-02 15:27:19,572 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-raft/3.1.1/kafka-raft-3.1.1-sources.jar
+2022-08-02 15:27:19,577 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-raft:3.1.1
+2022-08-02 15:27:20,658 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0-sources.jar
+2022-08-02 15:27:21,321 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0-sources.jar
+2022-08-02 15:27:21,326 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.yammer.metrics:metrics-core:2.2.0
+2022-08-02 15:27:21,718 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1-sources.jar
+2022-08-02 15:27:22,430 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams-test-utils/3.1.1/kafka-streams-test-utils-3.1.1-sources.jar
+2022-08-02 15:27:22,438 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-streams-test-utils:3.1.1
+2022-08-02 15:27:23,354 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1-sources.jar
+2022-08-02 15:27:23,642 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-streams/3.1.1/kafka-streams-3.1.1-sources.jar
+2022-08-02 15:27:23,645 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-streams:3.1.1
+2022-08-02 15:27:25,303 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1-sources.jar
+2022-08-02 15:27:25,733 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/rocksdb/rocksdbjni/6.22.1.1/rocksdbjni-6.22.1.1-sources.jar
+2022-08-02 15:27:25,736 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.rocksdb:rocksdbjni:6.22.1.1
+2022-08-02 15:27:27,984 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-sources.jar
+2022-08-02 15:27:28,650 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka_2.13/3.1.1/kafka_2.13-3.1.1-sources.jar
+2022-08-02 15:27:28,659 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka_2.13:3.1.1
+2022-08-02 15:27:30,777 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6-sources.jar
+2022-08-02 15:27:31,179 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6-sources.jar
+2022-08-02 15:27:31,182 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang:scala-library:2.13.6
+2022-08-02 15:27:33,568 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1-sources.jar
+2022-08-02 15:27:34,024 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage/3.1.1/kafka-storage-3.1.1-sources.jar
+2022-08-02 15:27:34,027 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-storage:3.1.1
+2022-08-02 15:27:35,180 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1-sources.jar
+2022-08-02 15:27:35,887 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/apache/kafka/kafka-storage-api/3.1.1/kafka-storage-api-3.1.1-sources.jar
+2022-08-02 15:27:35,890 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka-storage-api:3.1.1
+2022-08-02 15:27:36,840 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0-sources.jar
+2022-08-02 15:27:37,241 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sourceforge/argparse4j/argparse4j/0.7.0/argparse4j-0.7.0-sources.jar
+2022-08-02 15:27:37,243 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sourceforge.argparse4j:argparse4j:0.7.0
+2022-08-02 15:27:38,560 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3-sources.jar
+2022-08-02 15:27:39,106 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.13/2.13.3/jackson-module-scala_2.13-2.13.3-sources.jar
+2022-08-02 15:27:39,110 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.module:jackson-module-scala_2.13:2.13.3
+2022-08-02 15:27:39,469 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8-sources.jar
+2022-08-02 15:27:39,972 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8-sources.jar
+2022-08-02 15:27:39,975 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.paranamer:paranamer:2.8
+2022-08-02 15:27:41,152 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3-sources.jar
+2022-08-02 15:27:41,848 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.13.3/jackson-dataformat-csv-2.13.3-sources.jar
+2022-08-02 15:27:41,852 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.13.3
+2022-08-02 15:27:42,288 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2022-08-02 15:27:42,915 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4-sources.jar
+2022-08-02 15:27:42,937 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.sf.jopt-simple:jopt-simple:5.0.4
+2022-08-02 15:27:43,370 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8-sources.jar
+2022-08-02 15:27:44,035 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/bitbucket/b_c/jose4j/0.7.8/jose4j-0.7.8-sources.jar
+2022-08-02 15:27:44,039 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.bitbucket.b_c:jose4j:0.7.8
+2022-08-02 15:27:44,658 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4-sources.jar
+2022-08-02 15:27:45,267 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.4.4/scala-collection-compat_2.13-2.4.4-sources.jar
+2022-08-02 15:27:45,273 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang.modules:scala-collection-compat_2.13:2.4.4
+2022-08-02 15:27:46,389 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0-sources.jar
+2022-08-02 15:27:46,518 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0-sources.jar
+2022-08-02 15:27:46,521 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang.modules:scala-java8-compat_2.13:1.0.0
+2022-08-02 15:27:52,342 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6-sources.jar
+2022-08-02 15:27:52,627 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.6/scala-reflect-2.13.6-sources.jar
+2022-08-02 15:27:52,629 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.scala-lang:scala-reflect:2.13.6
+2022-08-02 15:27:52,996 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3-sources.jar
+2022-08-02 15:27:53,434 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/com/typesafe/scala-logging/scala-logging_2.13/3.9.3/scala-logging_2.13-3.9.3-sources.jar
+2022-08-02 15:27:53,453 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.typesafe.scala-logging:scala-logging_2.13:3.9.3
+2022-08-02 15:27:54,578 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10-sources.jar
+2022-08-02 15:27:55,240 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/io/dropwizard/metrics/metrics-core/4.2.10/metrics-core-4.2.10-sources.jar
+2022-08-02 15:27:55,244 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.dropwizard.metrics:metrics-core:4.2.10
+2022-08-02 15:27:56,455 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2022-08-02 15:27:57,103 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://insecure.repo1.maven.org/maven2/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar
+2022-08-02 15:27:57,126 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-cli:commons-cli:1.4
+2022-08-02 15:27:57,130 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.kafka:kafka_2.13:3.1.1:test
+2022-08-02 15:27:57,727 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:57,727 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:57,727 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:27:57,728 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:27:57,730 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:27:57,730 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:27:57,730 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:28:19,137 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:19,137 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:19,139 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:28:19,170 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:28:19,175 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:19,175 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:19,175 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:28:43,972 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:43,973 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:43,974 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:28:44,000 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:28:44,003 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:44,003 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:44,003 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:28:57,673 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:57,673 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:57,674 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:28:57,681 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:28:57,684 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:28:57,684 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:28:57,684 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:29:21,583 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:29:21,583 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:29:21,584 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:29:21,591 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:29:21,593 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:29:21,594 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:29:21,594 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:29:39,512 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:29:39,512 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:29:39,513 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:29:39,521 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:29:39,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:29:39,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:29:39,525 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:32:23,070 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:23,071 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:23,072 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:32:23,079 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:32:23,081 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:23,081 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:23,081 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:32:28,260 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:28,260 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:28,260 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:32:28,267 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:32:28,269 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:28,269 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:28,269 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:32:30,443 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:30,443 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:30,444 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:32:30,466 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:32:30,467 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:32:30,467 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:32:30,467 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:36:10,504 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:36:10,504 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:36:10,505 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:36:10,516 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:36:10,518 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:36:10,518 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:36:10,518 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:36:15,668 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:36:15,668 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:36:15,669 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:36:15,678 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:36:15,680 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:36:15,680 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:36:15,680 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 15:58:19,014 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:58:19,014 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:58:19,015 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 15:58:19,024 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 15:58:19,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 15:58:19,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 15:58:19,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:04:48,024 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:04:48,025 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:04:48,025 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:04:48,057 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:04:48,060 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:04:48,060 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:04:48,060 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:07:38,098 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:38,098 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:38,099 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:07:38,108 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:07:38,110 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:38,110 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:38,110 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:07:44,990 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:44,990 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:44,991 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:07:45,036 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:07:45,040 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:45,040 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:45,040 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:07:49,361 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:49,361 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:49,361 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:07:49,366 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:07:49,368 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:07:49,368 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:07:49,368 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:20:43,224 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:20:43,224 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:20:43,225 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:20:43,238 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:20:43,240 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:20:43,240 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:20:43,240 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:21:12,064 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:21:12,065 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:21:12,065 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:21:12,084 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:21:12,086 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:21:12,086 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:21:12,086 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:24:15,882 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:24:15,882 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:24:15,883 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:24:15,890 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:24:15,892 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:24:15,892 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:24:15,892 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:25:19,642 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:19,642 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:19,643 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:25:19,649 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:25:19,650 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:19,650 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:19,651 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:25:26,198 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:26,198 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:26,199 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:25:26,206 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:25:26,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:26,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:26,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:25:36,309 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:36,309 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:36,310 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:25:36,316 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:25:36,318 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:25:36,318 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:25:36,318 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:27:25,441 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:27:25,442 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:27:25,443 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:27:25,449 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:27:25,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:27:25,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:27:25,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:29:37,107 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:29:37,107 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:29:37,109 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:29:37,118 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:29:37,120 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:29:37,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:29:37,121 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:29:55,787 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:29:55,787 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:29:55,788 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:29:55,795 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:29:55,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:29:55,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:29:55,797 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:30:22,810 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:30:22,810 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:30:22,811 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:30:22,817 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:30:22,819 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:30:22,819 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:30:22,819 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:30:26,078 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:30:26,078 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:30:26,079 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:30:26,156 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:30:26,159 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:30:26,159 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:30:26,159 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 16:34:06,257 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:34:06,257 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:34:06,258 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 16:34:06,265 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 16:34:06,267 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 16:34:06,267 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 16:34:06,267 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 17:07:59,632 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kafka-consumer:kafka-consumer:0.0.1-SNAPSHOT @ D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\pom.xml.
+2022-08-02 17:08:08,656 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-consumer/src/main/java
+2022-08-02 17:08:08,657 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-consumer/src/main/resources
+2022-08-02 17:08:08,661 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-consumer/src/main/resources
+2022-08-02 17:08:08,682 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-consumer/src/test/java
+2022-08-02 17:08:20,242 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:20,243 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:20,243 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:08:20,296 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:08:20,302 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:20,302 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:20,303 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:08:25,697 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 34 sec
+2022-08-02 17:08:25,699 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-02 17:08:27,004 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kafka-consumer:kafka-consumer:0.0.1-SNAPSHOT @ D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\pom.xml.
+2022-08-02 17:08:28,551 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-consumer/src/main/java
+2022-08-02 17:08:28,552 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-consumer/src/main/resources
+2022-08-02 17:08:28,554 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /kafka-consumer/src/main/resources
+2022-08-02 17:08:28,556 [Worker-45: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /kafka-consumer/src/test/java
+2022-08-02 17:08:33,360 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:33,360 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:33,361 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:08:33,363 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:08:33,366 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:33,366 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:33,366 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:08:34,514 [Worker-45: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2022-08-02 17:08:37,977 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:37,977 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:37,977 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:08:37,979 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:08:37,980 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:08:37,980 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:08:37,980 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:09:20,528 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:09:20,528 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:09:20,530 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:09:20,585 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:09:20,588 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:09:20,588 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:09:20,588 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:12:23,028 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:23,028 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:23,029 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:12:23,034 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:12:23,036 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:23,036 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:23,036 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:12:27,692 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:27,694 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:27,695 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:12:27,770 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:12:27,774 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:27,774 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:27,774 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:12:29,846 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:29,846 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:29,847 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:12:29,858 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:12:29,859 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:29,859 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:29,859 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:12:49,305 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:49,305 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:49,306 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:12:49,364 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:12:49,368 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:12:49,368 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:12:49,368 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:13:17,102 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:13:17,103 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:13:17,103 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:13:17,141 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:13:17,143 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:13:17,143 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:13:17,143 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:13:37,026 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:13:37,026 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:13:37,027 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:13:37,057 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:13:37,061 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:13:37,061 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:13:37,061 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:14:02,440 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:14:02,440 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:14:02,441 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:14:02,446 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:14:02,447 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:14:02,447 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:14:02,447 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:14:24,824 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:14:24,824 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:14:24,824 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:14:24,830 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:14:24,832 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:14:24,832 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:14:24,832 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:18:26,370 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:26,392 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:26,393 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:18:26,400 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:18:26,401 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:26,401 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:26,401 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:18:30,990 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:30,990 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:30,991 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:18:30,996 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:18:30,997 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:30,997 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:30,997 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:18:45,515 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:45,515 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:45,516 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:18:45,546 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:18:45,548 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:45,548 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:45,548 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:18:53,151 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:53,151 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:53,152 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:18:53,277 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:18:53,278 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:18:53,278 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:18:53,278 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:19:06,357 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:19:06,357 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:19:06,357 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:19:06,390 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:19:06,392 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:19:06,392 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:19:06,392 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:19:10,916 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:19:10,917 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:19:10,917 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:19:10,956 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:19:10,957 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:19:10,957 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:19:10,957 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 17:31:25,233 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:31:25,233 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:31:25,234 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 17:31:25,261 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 17:31:25,262 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 17:31:25,262 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 17:31:25,262 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:48:49,853 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:48:49,854 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:48:49,856 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:48:50,270 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:48:50,272 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:48:50,272 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:48:50,272 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:48:55,160 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:48:55,160 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:48:55,161 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:48:55,486 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:48:55,488 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:48:55,488 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:48:55,488 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:49:08,130 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:08,130 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:08,131 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:49:08,135 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:49:08,150 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:08,150 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:08,150 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:49:25,320 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:25,320 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:25,321 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:49:25,455 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:49:25,456 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:25,456 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:25,456 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:49:36,493 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:36,493 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:36,494 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:49:36,500 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:49:36,502 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:36,502 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:36,502 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:49:43,900 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:43,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:43,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:49:43,928 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:49:43,929 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:43,930 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:43,930 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:49:56,535 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:56,535 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:56,535 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:49:56,550 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:49:56,551 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:49:56,551 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:49:56,551 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:50:25,459 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:25,459 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:25,460 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:50:25,505 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:50:25,518 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:25,518 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:25,518 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:50:46,777 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:46,777 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:46,778 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:50:46,781 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:50:46,783 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:46,783 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:46,783 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:50:52,507 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:52,507 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:52,508 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:50:52,515 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:50:52,518 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:50:52,518 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:50:52,518 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:51:12,808 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:12,808 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:12,808 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:51:12,815 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:51:12,816 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:12,816 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:12,816 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:51:42,174 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:42,175 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:42,175 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:51:42,196 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:51:42,198 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:42,198 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:42,198 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:51:59,878 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:59,879 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:59,880 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:51:59,885 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:51:59,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:51:59,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:51:59,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:52:08,419 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:08,419 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:08,419 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:52:08,423 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:52:08,424 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:08,424 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:08,424 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:52:25,758 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:25,758 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:25,759 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:52:25,767 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:52:25,768 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:25,768 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:25,769 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:52:55,801 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:55,801 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:55,802 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:52:55,827 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:52:55,829 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:52:55,829 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:52:55,829 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:53:06,242 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:06,243 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:06,243 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:53:06,246 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:53:06,247 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:06,247 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:06,247 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:53:35,340 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:35,340 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:35,340 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:53:35,346 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:53:35,347 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:35,347 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:35,347 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:53:56,712 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:56,712 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:56,712 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:53:56,717 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:53:56,718 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:53:56,718 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:53:56,718 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:56:52,875 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:56:52,875 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:56:52,923 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:56:52,950 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:56:52,952 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:56:52,952 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:56:52,952 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:57:10,640 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:57:10,640 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:57:10,641 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:57:10,646 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:57:10,647 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:57:10,647 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:57:10,647 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 18:57:50,149 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:57:50,149 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:57:50,150 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:57:50,171 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:57:50,173 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:57:50,173 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:57:50,173 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:58:19,709 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:19,709 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:19,710 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:58:19,715 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:58:19,717 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:19,717 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:19,717 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:58:31,785 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:31,786 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:31,786 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:58:31,792 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:58:31,793 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:31,793 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:31,793 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:58:52,692 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:52,692 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:52,693 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:58:52,862 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:58:52,863 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:58:52,864 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:58:52,864 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:59:36,046 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:59:36,046 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:59:36,047 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:59:36,054 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:59:36,055 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:59:36,055 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:59:36,056 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 18:59:59,443 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:59:59,443 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:59:59,443 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 18:59:59,449 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 18:59:59,450 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 18:59:59,451 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 18:59:59,451 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 19:00:21,909 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:00:21,909 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:00:21,910 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:00:21,913 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:00:21,914 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:00:21,914 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:00:21,914 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 19:00:42,580 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:00:42,581 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:00:42,581 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:00:42,585 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:00:42,586 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:00:42,586 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:00:42,586 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:01:00,857 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:00,857 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:00,857 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:01,059 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:01,060 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:01,061 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:01,061 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 19:01:05,443 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:05,443 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:05,444 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:05,468 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:05,470 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:05,470 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:05,470 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 19:01:13,000 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:13,000 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:13,002 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:13,183 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:13,184 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:13,184 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:13,184 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-publisher\src\test\resources
+2022-08-02 19:01:33,775 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:33,775 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:33,775 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:33,848 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:33,850 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:33,850 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:33,850 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:01:38,924 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:38,924 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:38,924 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:38,928 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:38,929 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:38,929 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:38,929 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:01:45,783 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:45,783 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:45,784 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:46,068 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:46,069 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:46,069 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:46,069 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:01:49,503 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:49,503 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:49,504 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:49,580 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:49,583 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:49,583 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:49,583 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:01:56,883 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:56,883 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:56,883 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:01:56,888 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:01:56,889 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:01:56,889 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:01:56,889 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:02:27,950 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:27,950 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:27,950 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:02:27,954 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:02:27,955 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:27,956 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:27,956 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:02:48,653 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:48,653 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:48,654 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:02:48,660 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:02:48,662 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:48,662 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:48,663 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:02:58,168 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:58,168 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:58,169 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:02:58,172 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:02:58,173 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:02:58,173 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:02:58,173 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:03:03,468 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:03,468 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:03,468 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:03:03,472 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:03:03,474 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:03,474 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:03,474 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:03:17,490 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:17,490 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:17,491 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:03:17,498 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:03:17,500 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:17,500 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:17,501 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:03:41,139 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:41,139 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:41,140 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:03:41,147 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:03:41,149 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:41,149 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:41,149 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:03:55,208 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:55,208 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:55,208 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:03:55,213 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:03:55,214 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:03:55,214 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:03:55,214 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:04:01,914 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:01,915 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:01,915 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:04:01,920 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:04:01,921 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:01,921 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:01,921 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:04:19,608 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:19,608 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:19,608 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:04:19,613 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:04:19,614 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:19,614 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:19,614 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:04:24,424 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:24,424 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:24,425 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:04:24,429 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:04:24,431 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:24,431 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:24,431 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:04:34,083 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:34,083 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:34,083 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:04:34,088 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:04:34,101 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:04:34,101 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:04:34,101 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources
+2022-08-02 19:10:59,829 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:10:59,830 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:10:59,833 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 19:10:59,849 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 19:10:59,852 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 19:10:59,852 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 19:10:59,852 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\learnings\back_end\java\microservice\message-queue\kafka\kafka\kafka-consumer\src\test\resources

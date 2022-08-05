@@ -1,0 +1,5 @@
+package com.kafkaconsumer.config;
+
+public class KafkaConsumerConfig {
+
+}

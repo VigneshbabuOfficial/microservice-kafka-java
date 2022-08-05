@@ -1,0 +1,14 @@
+package com.kafkapublisher.controller;
+
+import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.web.bind.annotation.RestController;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestController {
+
+	@Autowired
+	public KafkaTemplate<String, Object> template;
+	
+}

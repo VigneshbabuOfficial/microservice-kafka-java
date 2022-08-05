@@ -1,0 +1,5 @@
+package com.kafkapublisher.config;
+
+public class KafkaPublisherConfig {
+
+}

@@ -1,0 +1,48 @@
+package com.kafkaconsumer.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.logging.Logger;
+
+import org.springframework.kafka.annotation.KafkaListener;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.fasterxml.jackson.databind.node.ObjectNode;
+
+@RestController
+public class ConsumerTestController {
+
+	List<String> messages = new ArrayList<>();
+	
+	List<ObjectNode> jsonMessages = new ArrayList<>();
+	
+	Logger logger = Logger.getLogger("ConsumerTestController");
+
+	@KafkaListener(groupId = "group-1", topics = "topic-1", containerFactory = "kafkaListenerContainerFactory")
+	public List<String> getMsgFromTopic(String data) {
+		logger.info(" getMsgFromTopic - data = "+data+" ,  groupId = group-1, topics = topic-1");
+		messages.add(data);
+		return messages;
+	}
+	
+	@GetMapping("/getAllTextMsgs")
+	public List<String> getAllTextMsgs() {
+		logger.info(" getAllTextMsgs - messages ="+ messages);
+		return messages;
+	}
+	
+
+	@KafkaListener(groupId = "group-2", topics = "topic-2", containerFactory = "objectNodeKafkaListenerContainerFactory")
+	public ObjectNode getJsonMsgFromTopic(ObjectNode data) {
+		logger.info(" getJsonMsgFromTopic - data = "+data+" ,  groupId = group-2, topics = topic-2");
+		jsonMessages.add(data);
+		return data;
+	}
+	
+	@GetMapping("/getAllTextMsgs/json")
+	public List<ObjectNode> consumeJsonMessage() {
+		return jsonMessages;
+	}
+
+}

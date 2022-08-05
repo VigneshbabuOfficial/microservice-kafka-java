@@ -1,0 +1,6 @@
+package com.kafkapublisher.controller;
+
+@RestController
+public class TestController {
+
+}

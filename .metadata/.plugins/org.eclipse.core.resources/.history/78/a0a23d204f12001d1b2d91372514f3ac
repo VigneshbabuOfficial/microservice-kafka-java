@@ -1,0 +1,22 @@
+package com.kafkapublisher.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class TestController {
+
+	@Autowired
+	public KafkaTemplate<String, Object> template;
+	
+	@GetMapping("/publish/{name}")
+	public String publishMessage(String name) {
+		
+		template.send("topic-1", "Hi "+name+" Welcome !! ");
+		
+		return "Data Published";
+	}
+	
+}
